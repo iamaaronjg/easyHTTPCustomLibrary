@@ -1,0 +1,1 @@
+// ES5 - Prototypes instead of ES6 classes - we will remake it using classes later on
